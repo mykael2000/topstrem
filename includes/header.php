@@ -52,10 +52,10 @@
 
             <nav id="navbar" class="navbar">
                 <ul>
-                    <li><a class="nav-link scrollto active" href="#hero">Home</a></li>
+                    <li><a class="nav-link scrollto active" href="index.php">Home</a></li>
                     <li><a class="nav-link scrollto" href="about.php">About</a></li>
                     <li>
-                        <a class="nav-link scrollto" href="index.php#plans">Investment Plans</a>
+                        <a class="nav-link scrollto" href="index.php#pricing">Investment Plans</a>
                     </li>
                     <li>
                         <a class="nav-link scrollto" href="faq.php">FAQ</a>
