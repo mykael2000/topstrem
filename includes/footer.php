@@ -5,7 +5,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-3 col-md-6 footer-contact">
-                    <img src="logo.png" />
+                    <img src="logo-dark.png" />
                     <p>
                         At Topstrem, we believe there is no better advertisement than
                         satisfied clients. No wonder that majority of our new clients

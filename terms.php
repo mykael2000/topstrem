@@ -24,10 +24,10 @@ include 'includes/header.php';
                 <p>
                     1. INTRODUCTION
                     <br>
-                    1.1 The service is made available to you by decoinstats a company formed under the laws of the
+                    1.1 The service is made available to you by Topstrem a company formed under the laws of the
                     United States
                     of
-                    America (“decoinstats”, “we”, “us” or “our”) through the website located at decoinstats.com, for
+                    America (“Topstrem”, “we”, “us” or “our”) through the website located at topstrem.com, for
                     the
                     purpose of
                     providing tools that allow managing personal cryptocurrency holdings. The term “you” or “Client”
@@ -38,7 +38,7 @@ include 'includes/header.php';
                     your access
                     to and use of the Software and constitute the entire, complete, and binding agreement between
                     you and
-                    decoinstats with respect to the Software.
+                    Topstrem with respect to the Software.
                     <br>
                     1.4 THESE TERMS OF USE CONTAIN VERY IMPORTANT INFORMATION REGARDING YOUR RIGHTS AND OBLIGATIONS,
                     AS WELL AS
@@ -63,11 +63,11 @@ include 'includes/header.php';
                     <br>
                     2. SUBJECT MATTER OF THE TERMS OF USE
                     <br>
-                    2.1 These Terms of Use apply between decoinstats and the Client using the Software. The Software
+                    2.1 These Terms of Use apply between Topstrem and the Client using the Software. The Software
                     is made
-                    available to you via website https://decoinstats on computer or mobile device.
+                    available to you via website https://Topstrem on computer or mobile device.
                     <br>
-                    2.2 These Terms of Use constitute a legally binding agreement between you and decoinstats and
+                    2.2 These Terms of Use constitute a legally binding agreement between you and Topstrem and
                     covers the
                     operation and provision of the Software. The Software is provided to natural and legal persons
                     with an
@@ -75,7 +75,7 @@ include 'includes/header.php';
                     holdings. You
                     shall not use the Software to manage third-party’s cryptocurrency holdings in any way.
                     <br>
-                    2.3 decoinstats may update or revise these Terms of Use from time to time by providing notice of
+                    2.3 Topstrem may update or revise these Terms of Use from time to time by providing notice of
                     such updates
                     or revisions on the Software. Such changes to the Terms of Use will take effect as of the “Last
                     updated”
@@ -122,10 +122,10 @@ include 'includes/header.php';
                     such third
                     party service.
                     <br>
-                    3.4.2 From the moment decoinstats provides you the Client Account to access and use the
+                    3.4.2 From the moment Topstrem provides you the Client Account to access and use the
                     Software,
                     the sign-up
-                    process is completed. The Client Account is provided to you free of charge. decoinstats has the
+                    process is completed. The Client Account is provided to you free of charge. Topstrem has the
                     right to
                     refuse
                     to provide you a Client Account at its sole discretion, in which case you shall not use the
@@ -142,7 +142,7 @@ include 'includes/header.php';
                 </p>
                 <p>
                     If you have any more questions or need further assistance, feel free to ask! Via livechat or at
-                    <a href="mailto:support@decoinstats.com">support@decoinstats.com</a>
+                    <a href="mailto:support@topstrem.com">support@topstrem.com</a>
                 </p>
             </div>
         </div>

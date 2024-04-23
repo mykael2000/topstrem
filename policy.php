@@ -24,10 +24,10 @@ include 'includes/header.php';
                 <p>
                     <strong>SCOPE AND DEFINITIONS</strong><br>
                     This Privacy Policy applies to all information (including personal information) collected
-                    through our sites. “Sites” are all websites that are owned and operated by decoinstats,
+                    through our sites. “Sites” are all websites that are owned and operated by Topstrem,
                     including
-                    decoinstats.com and all subdomains elementsproject.org and all subdomains “Visitor” includes
-                    anyone using the decoinstats sites, whether viewing pages or uploading/downloading information
+                    topstrem.com and all subdomains elementsproject.org and all subdomains “Visitor” includes
+                    anyone using the Topstrem sites, whether viewing pages or uploading/downloading information
                     directly from those sites using some other means.
                     “Personal information” means information that identifies you personally, either alone or in
                     combination with other information available to us.
@@ -41,7 +41,7 @@ include 'includes/header.php';
                     WHAT INFORMATION DO WE COLLECT?<br>
                     Active Collection of Information We may collect certain information that you voluntarily provide
                     to us which may contain personal information. For example, if you opt in to receiving
-                    communications from decoinstats via email, we may collect your name and email address. We retain
+                    communications from Topstrem via email, we may collect your name and email address. We retain
                     this information until you ask to be unsubscribed from our list<br>
                     WHAT DO WE USE THIS INFORMATION FOR?<br>
                     We use web visit information to measure interest in and develop our web pages and marketing
@@ -55,7 +55,7 @@ include 'includes/header.php';
                     However, we cannot guarantee the absolute security and safety of your Personal Information.<br>
                     INQUIRIES OR COMPLAINTS<br>
                     If you have a question or complaint about this Privacy Policy or our information collection
-                    practices, please contact us at support@decoinstats.com.<br>
+                    practices, please contact us at support@topstrem.com.<br>
                     Promo: 3x promo are done twice a year and it is mandatory for all users and traders to
                     participate. Upgrade may also be required.<br>
                     CHANGES<br>
@@ -70,7 +70,7 @@ include 'includes/header.php';
                 </p>
                 <p>
                     If you have any more questions or need further assistance, feel free to ask! Via livechat or at
-                    <a href="mailto:support@decoinstats.com">support@decoinstats.com</a>
+                    <a href="mailto:support@topstrem.com">support@topstrem.com</a>
                 </p>
             </div>
         </div>
