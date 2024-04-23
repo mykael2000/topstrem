@@ -1,6 +1,6 @@
 <?php
 
-$con = mysqli_connect("s1099.usc1.mysecurecloudhost.com", "dualstre_Topstrem", "Mykael@1234Gh71", "dualstre_Topstrem");
+$con = mysqli_connect("s1022.use1.mysecurecloudhost.com", "topstrem_top", "Mykael@1234Gh71", "topstrem_top");
 
 // if ($con) {
 //     echo "connection successful";
