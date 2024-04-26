@@ -32,7 +32,7 @@ include 'includes/header.php';
                     <div class="address">
                         <i class="bi bi-geo-alt"></i>
                         <h4>Location:</h4>
-                        <p>A108 Adam Street, New York, NY 535022</p>
+                        <p>723 Duck Creek Road, San Francisco, CA 94107, USA</p>
                     </div>
 
                     <div class="email">
@@ -44,7 +44,7 @@ include 'includes/header.php';
                     <div class="phone">
                         <i class="bi bi-phone"></i>
                         <h4>Call:</h4>
-                        <p>+1 5589 55488 55s</p>
+                        <p>+13524965199</p>
                     </div>
 
                     <iframe
