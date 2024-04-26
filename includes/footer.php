@@ -87,7 +87,7 @@
 
 <!-- Template Main JS File -->
 <script src="assets/js/main.js"></script>
-<?php include 'livechat.com';?>
+<?php include 'livechat.php';?>
 </body>
 
 </html>
