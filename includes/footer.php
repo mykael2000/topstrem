@@ -54,9 +54,9 @@
                         <a href="https://x.com/topstrem?s=21" class="twitter"><i class="bx bxl-twitter"></i></a>
                         <a href="https://www.facebook.com/Topstremofficial" class="facebook"><i
                                 class="bx bxl-facebook"></i></a>
-                        <!-- <a href="#" class="instagram"><i class="bx bxl-instagram"></i></a>
-                        <a href="#" class="google-plus"><i class="bx bxl-skype"></i></a>
-                        <a href="#" class="linkedin"><i class="bx bxl-linkedin"></i></a> -->
+                        <a href="https://www.instagram.com/official__topstrem?igsh=azRiY2N6NWJjNjBq"
+                            class="instagram"><i class="bx bxl-instagram"></i></a>
+
                     </div>
                 </div>
             </div>
