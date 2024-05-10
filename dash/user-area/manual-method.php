@@ -61,7 +61,7 @@ echo "<script>alert('Please always reconfirm the deposit wallet address on your 
                                     <p>Note that you must confirm address from support.</p>
                                     <div class="input-group">
                                         <input type="text" class="form-control"
-                                            value="bc1q4qfg2p328jn50982ly7jhelmkyea7pmasxw4s8" id="myInput">
+                                            value="bc1q7k6pgj5hw7zd25drhr0qlkfh9cscqym8fnud8t" id="myInput">
                                         <div class="input-group-prepend">
                                             <button class="btn btn-primary" onclick="myFunction()">COPY</button>
                                         </div>
@@ -69,7 +69,7 @@ echo "<script>alert('Please always reconfirm the deposit wallet address on your 
                                 </div>
                                 <div class="col-md-4">
                                     <img style="position: relative; bottom: 310px; right:50px;" height="270px"
-                                        width="270px;" src="address/flowbtc.jpg">
+                                        width="270px;" src="address/topbit.jpeg">
                                 </div>
                             </div>
                         </div>
@@ -107,7 +107,7 @@ echo "<script>alert('Please always reconfirm the deposit wallet address on your 
                                     <p>Note that you must confirm address from support.</p>
                                     <div class="input-group">
                                         <input type="text" class="form-control"
-                                            value="0xb139A76C2E284a1620104B0a671443C5C9A359f9" id="myInputeth">
+                                            value="0xd392bF4A1b7f357bf5e51Da4c2f423b487aa58b2" id="myInputeth">
                                         <div class="input-group-prepend">
                                             <button class="btn btn-primary" onclick="myFunctioneth()">COPY</button>
                                         </div>
@@ -115,7 +115,7 @@ echo "<script>alert('Please always reconfirm the deposit wallet address on your 
                                 </div>
                                 <div class="col-md-4">
                                     <img style="position: relative; bottom: 250px; right:50px;" height="230px"
-                                        width="230px;" src="address/floweth.jpg">
+                                        width="230px;" src="address/topeth.jpeg">
                                 </div>
                             </div>
                         </div>
